@@ -1,1 +1,1 @@
-# SCsc_PostgreSQL_CL
+# SCsc_SqlScriptInAllDb_CL
